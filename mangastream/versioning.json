@@ -1,0 +1,171 @@
+{
+    "buildTime": "2023-10-10T18:21:19.688Z",
+    "sources": [
+      {
+        "id": "MaidManga",
+        "name": "MaidManga",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://www.maid.my.id/",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "MATURE",
+        "version": "3.0.0",
+        "icon": "icon.png",
+        "tags": [
+            {
+            "text": "Indonesia",
+            "type": "info"
+            }
+        ],
+        "websiteBaseURL": "https://maid.my.id/",
+        "intents": 53
+      },
+      {
+        "id": "Kiryuu",
+        "name": "Kiryuu",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://kiryuu.id",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "MATURE",
+        "version": "2.1.0",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://kiryuu.id",
+        "intents": 53
+      },
+      {
+        "id": "KomikIndo",
+        "name": "KomikIndo",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://komikindo.co",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "EVERYONE",
+        "version": "2.1.0",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://komikindo.co",
+        "intents": 53
+      },
+      {
+        "id": "Komikcast",
+        "name": "Komikcast",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://komikcast.lol",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "MATURE",
+        "version": "2.0.2",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://komikcast.vip",
+        "intents": 53
+      },
+      {
+        "id": "Komiku",
+        "name": "Komiku",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://komiku.id",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "EVERYONE",
+        "version": "2.1.0",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://komiku.com",
+        "intents": 53
+      },
+      {
+        "id": "Mangatale",
+        "name": "Mangatale",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://mangatale.co",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "EVERYONE",
+        "version": "2.1.0",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://mangatale.co",
+        "intents": 53
+      },
+      {
+        "id": "Nonbiri",
+        "name": "Nonbiri",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://nonbiri.space",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "EVERYONE",
+        "version": "2.0.1",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://nonbiri.space",
+        "intents": 53
+      },
+      {
+        "id": "Tenshi",
+        "name": "Tenshi",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://tenshi.id",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "EVERYONE",
+        "version": "2.0.3",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://tenshi.id",
+        "intents": 53
+      },
+      {
+        "id": "WestManga",
+        "name": "WestManga",
+        "author": "Blek",
+        "desc": "Extension that pulls manga from https://westmanga.info",
+        "website": "hhttps://github.com/haafidz-jp",
+        "contentRating": "EVERYONE",
+        "version": "2.1.0",
+        "icon": "icon.png",
+        "tags": [
+          {
+            "text": "Indonesia",
+            "type": "info"
+          }
+        ],
+        "websiteBaseURL": "https://westmanga.net",
+        "intents": 53
+      }
+    ],
+    "builtWith": {
+      "toolchain": "0.8.0-alpha.47",
+      "types": "0.8.0-alpha.47"
+    }
+  }
